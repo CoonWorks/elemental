@@ -1,1 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MENDELEEV>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Placeholder</NOMBRE>
+		<PESOATOM>Placeholder</PESOATOM>
+		<GRUPOATOM>Placeholder</GRUPOATOM>
+		<ANIO>Placeholder</ANIO>
+		<INFO>Placeholder</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Hidrogeno</NOMBRE>
+		<PESOATOM>1,00797</PESOATOM>
+		<GRUPOATOM>1</GRUPOATOM>
+		<ANIO>1766</ANIO>
+		<INFO>El hidrógeno (en griego, de ὕδωρ hýdōr, genitivo ὑδρός hydrós, y γένος génos «que genera o produce agua») es el elemento químico de número atómico 1, representado por el símbolo H. Con una masa atómica de 1,00797, es el más ligero de la tabla periódica de los elementos. Por lo general, se presenta en su forma molecular, formando el gas diatómico H2 en condiciones normales. Este gas es inflamable, incoloro, inodoro, no metálico e insoluble en agua.
 
+Debido a sus distintas y variadas propiedades, el hidrógeno no se puede encuadrar claramente en ningún grupo de la tabla periódica, aunque muchas veces se sitúa en el grupo 1 (o familia 1A) por poseer un solo electrón en la capa de valencia o capa superior.
+
+El hidrógeno es el elemento químico más abundante, al constituir aproximadamente el 75 % de la materia visible del universo. En su secuencia principal, las estrellas están compuestas principalmente por hidrógeno en estado de plasma. El hidrógeno elemental es relativamente raro en la Tierra y es producido industrialmente a partir de hidrocarburos como, por ejemplo, el metano. La mayor parte del hidrógeno elemental se obtiene in situ, es decir, en el lugar y en el momento en que se necesita. Los mayores mercados del mundo disfrutan de la utilización del hidrógeno para el mejoramiento de combustibles fósiles (en el proceso de hidrocraqueo) y en la producción de amoníaco (principalmente para el mercado de fertilizantes). El hidrógeno puede obtenerse a partir del agua por un proceso de electrólisis, pero resulta un método mucho más caro que la obtención a partir del gas natural.</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>"url('ele2a.png')"</IMAGEN1>
+		<IMAGEN2>"url('ele2b.png')"</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>4,0026</PESOATOM>
+		<GRUPOATOM>18</GRUPOATOM>
+		<ANIO>1868</ANIO>
+		<INFO>El helio (del griego: ἥλιος [hḗlios], «Sol», por haberse inferido en 1868 su existencia en la atmósfera solar) es un elemento químico de número atómico 2, símbolo He y peso atómico estándar de 4,0026. Pertenece al grupo 18 de la tabla periódica de los elementos, ya que al tener el nivel de energía completo presenta las propiedades de un gas noble. Es decir, es inerte (no reacciona) y al igual que estos, es un gas monoatómico incoloro e inodoro que cuenta con el menor punto de ebullición de todos los elementos químicos y solo puede ser licuado bajo presiones muy grandes y no puede ser congelado.
+
+Durante un eclipse solar en 1868, el astrónomo francés Pierre Janssen observó una línea espectral amarilla en la luz solar que hasta ese momento era desconocida. Norman Lockyer observó el mismo eclipse y propuso que dicha línea era producida por un nuevo elemento, al cual llamó helio, con lo cual, tanto a Lockyer como a Janssen se les adjudicó el descubrimiento de este elemento. En 1903 se encontraron grandes reservas de helio en campos de gas natural en los Estados Unidos, país con la mayor producción de helio en el mundo.
+
+El helio es el segundo elemento más ligero y el segundo más abundante en el universo observable, constituyendo el 24 % de la masa de los elementos presentes en nuestra galaxia. Esta abundancia se encuentra en proporciones similares en el Sol y en Júpiter. Por masa se encuentra en una proporción doce veces mayor a la de todos los elementos más pesados juntos. La presencia tan frecuente de helio es debida a elevada energía de enlace por nucleón del helio-4 con respecto a los tres elementos que le siguen en la tabla periódica (litio, berilio y boro). Esta energía da como resultado la producción frecuente de helio tanto en la fusión nuclear como en la desintegración radioactiva. La mayor parte del helio en el universo se encuentra presente en la forma del isótopo helio-4 (4He), el cual se cree que se formó unos 15 minutos después del Big Bang. Gracias a la fusión de hidrógeno en las estrellas activas, se forma una pequeña cantidad de helio nuevo, excepto en las de mayor masa, debido a que durante las etapas finales de su vida generan su energía convirtiendo el helio en elementos más pesados. En la atmósfera de la Tierra se encuentran trazas de helio debido a la desintegración radioactiva de algunos elementos. En algunos depósitos naturales el gas se encuentra en cantidad suficiente para la explotación.</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Litio</NOMBRE>
+		<PESOATOM>6.94174064</PESOATOM>
+		<GRUPOATOM>1</GRUPOATOM>
+		<ANIO>1817</ANIO>
+		<INFO>El litio (en griego: λιθίον, ‘piedrecita’) es un elemento químico de símbolo Li y número atómico 3. En la tabla periódica, se encuentra en el grupo 1, entre los elementos alcalinos. En su forma pura, es un metal blando, de color blanco plata, que se oxida rápidamente en aire o agua. Su densidad es la mitad de la del agua, siendo el metal y elemento sólido más ligero.
+
+Al igual que los demás metales alcalinos es univalente y muy reactivo, aunque menos que el sodio, por lo que no se encuentra libre en la naturaleza. Acercado a una llama la torna carmesí pero, si la combustión es violenta, la llama adquiere un color blanco brillante.
+
+Se emplea especialmente en aleaciones conductoras del calor, en baterías eléctricas y, sus sales, en el tratamiento del trastorno bipolar.</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Placeholder</NOMBRE>
+		<PESOATOM>Placeholder</PESOATOM>
+		<GRUPOATOM>Placeholder</GRUPOATOM>
+		<ANIO>Placeholder</ANIO>
+		<INFO>Placeholder</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Hidrogeno</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>1</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+	<ELEMENTO>
+		<IMAGEN1>[img]https://via.placeholder.com/170x170[/img]</IMAGEN1>
+		<IMAGEN2>[img]https://via.placeholder.com/170x170[/img]</IMAGEN2>
+		<NOMBRE>Helio</NOMBRE>
+		<PESOATOM>Algo</PESOATOM>
+		<GRUPOATOM>2?</GRUPOATOM>
+		<ANIO>Ni idea</ANIO>
+		<INFO>fdsfdsfdsfdfdsfdfdfdfsd</INFO>
+	</ELEMENTO>
+</MENDELEEV>
