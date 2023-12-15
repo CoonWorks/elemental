@@ -13,7 +13,3 @@ function toggler(n){
     document.getElementById('tabla-'+n).classList.add('extender');
   }
 }
-
-$('#toggler-1').click(function(){
-  $('#tabla-1').toggleClass('retracter extender');
-});
