@@ -7,11 +7,11 @@ function TypeSelector(n){
 }
 
 function toggler(n){
-  if(document.getElementById('tabla'+n).classList.contains('extender')){
-    document.getElementById('tabla'+n).classList.remove('extender')
+  if(document.getElementById('tabla-'+n).classList.contains('extender')){
+    document.getElementById('tabla-'+n).classList.remove('extender')
   } else{
-    document.getElementById('tabla'+n).classList.add('extender');
+    document.getElementById('tabla-'+n).classList.add('extender');
   }
 }
 
-document.getElementById('toggler'+n).addEventListener('click',toggler(n));
+document.getElementById('toggler-'+n).addEventListener('click',toggler(n));
