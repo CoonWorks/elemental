@@ -45,3 +45,7 @@
 .desconocido{
   background-color:#e0e0e0;
 }
+
+.extender{
+  transform:scale(1,1);
+}
