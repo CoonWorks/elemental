@@ -46,10 +46,6 @@
   background-color:#e0e0e0;
 }
 
-.extender{
-  transform:scale(1,1);
-}
-
-.retracter{
-  transform:scale(0,1);
+#togglerLan:hover > #tablaLan{
+  transform:scaleX(1);
 }
