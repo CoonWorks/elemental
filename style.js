@@ -1,3 +1,5 @@
+var j = 0;
+
 function toggler(n){
   if(j = 0){
     document.getElementById('tabla'+n).style.transform="scale(1,1)";
