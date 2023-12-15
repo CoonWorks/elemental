@@ -18,5 +18,6 @@ function RemoveSelector(n){
   document.getElementsByClassName(n).classList.remove('toggle');
 }
 
-document.getElementById('selector-'+j).addEventListener('mouseover',TipoSelector(j));
-document.getElementById('selector-'+j).addEventListener('mouseout',RemoveSelector(j));
+document.getElementById('toggler'+t).addEventListener('click',toggler(t));
+document.getElementById('selector-'+t).addEventListener('mouseover',TipoSelector(t));
+document.getElementById('selector-'+t).addEventListener('mouseout',RemoveSelector(t));
