@@ -47,5 +47,9 @@
 }
 
 .extender{
-  transform:scale(1,1)!important;
+  transform:scale(1,1);
+}
+
+.retracter{
+  transform:scale(0,1);
 }
