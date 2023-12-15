@@ -13,5 +13,3 @@ function toggler(n){
     document.getElementById('tabla-'+n).classList.add('extender');
   }
 }
-
-document.getElementById('toggler-'+n).addEventListener('click',toggler(n));
