@@ -16,4 +16,5 @@
   position:relative;
   top:-4px;
   left:42px;
+  transform:scale(0,1);
 }
