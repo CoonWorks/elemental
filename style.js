@@ -6,10 +6,14 @@ function TypeSelector(n){
   }
 }
 
-function toggler(n){
-  if(document.getElementById('tabla-'+n).classList.contains('extender')){
-    document.getElementById('tabla-'+n).classList.remove('extender')
+function toggler(){
+  if(var contando = 0){
+    document.getElementById('tablaLan').style.transform="scaleX(1)";
+    var contando = 1;
   } else{
-    document.getElementById('tabla-'+n).classList.add('extender');
+    document.getElementById('tablaLan').style.transform="scaleX(0)";
+    var contando = 0;
   }
 }
+
+document.getElementById('togglerLan').addEventListener('click',toggler());
