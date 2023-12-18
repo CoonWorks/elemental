@@ -9,12 +9,12 @@ function TypeSelector(n){
 }
 
 function toggler(){
-  if(contando = 0){
-    document.getElementById('tablaLan').style.transform="scaleX(1)";
-    contando = 1;
+  if(document.getElementById('tablaLan').classList.contains('retracter'){
+    document.getElementById('tablaLan').classList.remove('retracter');
+    document.getElementById('tablaLan').classList.add('extender');
   } else{
-    document.getElementById('tablaLan').style.transform="scaleX(0)";
-    contando = 0;
+    document.getElementById('tablaLan').classList.add('retracter');
+    document.getElementById('tablaLan').classList.remove('extender');
   }
 }
 
