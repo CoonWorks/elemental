@@ -46,6 +46,14 @@
   background-color:#e0e0e0;
 }
 
+.extender{
+  transform:scaleX(1);
+}
+
+.retracter{
+  transform:scaleX(0);
+}
+
 /*#togglerLan:hover > #tablaLan{
   transform:scaleX(1);
 }*/
