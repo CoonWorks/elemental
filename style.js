@@ -9,7 +9,7 @@ function TypeSelector(n){
 }
 
 function toggler(){
-  if(document.getElementById('tablaLan').classList.contains('retracter'){
+  if(document.getElementById('tablaLan').classList.contains('retracter') == true){
     document.getElementById('tablaLan').classList.remove('retracter');
     document.getElementById('tablaLan').classList.add('extender');
   } else{
