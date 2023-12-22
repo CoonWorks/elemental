@@ -18,4 +18,4 @@ function toggler(){
   }
 }
 
-document.getElementById('togglerLan').addEventListener('mouseover',toggler());
+document.getElementById('togglerLan').addEventListener('click',toggler());
