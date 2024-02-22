@@ -23,8 +23,8 @@ Debido a sus distintas y variadas propiedades, el hidrógeno no se puede encuadr
 El hidrógeno es el elemento químico más abundante, al constituir aproximadamente el 75 % de la materia visible del universo. En su secuencia principal, las estrellas están compuestas principalmente por hidrógeno en estado de plasma. El hidrógeno elemental es relativamente raro en la Tierra y es producido industrialmente a partir de hidrocarburos como, por ejemplo, el metano. La mayor parte del hidrógeno elemental se obtiene in situ, es decir, en el lugar y en el momento en que se necesita. Los mayores mercados del mundo disfrutan de la utilización del hidrógeno para el mejoramiento de combustibles fósiles (en el proceso de hidrocraqueo) y en la producción de amoníaco (principalmente para el mercado de fertilizantes). El hidrógeno puede obtenerse a partir del agua por un proceso de electrólisis, pero resulta un método mucho más caro que la obtención a partir del gas natural.</INFO>
 	</ELEMENTO>
 	<ELEMENTO>
-		<IMAGEN1>"url('ele2a.png')"</IMAGEN1>
-		<IMAGEN2>"url('ele2b.png')"</IMAGEN2>
+		<IMAGEN1>"url('./img/ele2a.png')"</IMAGEN1>
+		<IMAGEN2>"url('./img/ele2b.png')"</IMAGEN2>
 		<NOMBRE>Helio</NOMBRE>
 		<PESOATOM>4,0026</PESOATOM>
 		<GRUPOATOM>18</GRUPOATOM>
